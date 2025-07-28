@@ -233,15 +233,23 @@ Don't forget to add yours.
 
 If you need a custom theme, theme customization, or complete website development services from scratch, you can [Hire Us](https://zeon.studio/estimate-project).
 
-## Docker run
+---
+
+## Docker build
 
 docker build -t my-hugo-node-go-app .
 docker run -p 1313:1313 my-hugo-node-go-app
 
-Force Docker to use an x86_64 base image. If you want to keep using the x86 binary:
+---
+## Docker using the x86 binary
 
+Force Docker to use an x86_64 base image. If you want to keep using the x86 binary:
 docker buildx build --platform linux/amd64 -t my-hugo-node-go-app .
 docker run --platform linux/amd64 -p 1313:1313 my-hugo-node-go-app
+
 ---
+## Docker compose
+
 docker compose up --build
+
 ---
