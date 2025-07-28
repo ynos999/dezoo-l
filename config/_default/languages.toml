@@ -1,0 +1,20 @@
+################ Latvian language ##################
+[lv]
+languageName = "LV"
+languageCode = "lv"
+contentDir = "content/latvian"
+weight = 1
+
+################ Russian language ##################
+[ru]
+languageName = "RU"
+languageCode = "ru"
+contentDir = "content/russian"
+weight = 2
+
+################ English language ##################
+[en]
+languageName = "EN"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 3

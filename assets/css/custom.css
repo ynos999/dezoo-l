@@ -1,0 +1,22 @@
+/* Add your own custom styles here */
+.\32 xl\:block {
+    @media (width >=96rem) {
+        display: none;
+    }
+}
+
+.\32 xl\:hidden {
+    @media (width >=96rem) {
+        display: none;
+    }
+}
+
+.\32 xl\:bg-pink-200 {
+    @media (width >=96rem) {
+        background-color: unset;
+    }
+}
+
+.mt-6.inline-flex.space-x-1.capitalize {
+    display: none;
+}

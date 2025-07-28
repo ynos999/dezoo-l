@@ -1,0 +1,30 @@
+version: "3.9"
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: hugo-node-app
+    ports:
+      - "1313:1313"   # Expose Hugo locally (optional if using tunnel only)
+    volumes:
+      - .:/app        # Optional: live-reload during development
+    command: npm run dev
+    networks:
+      - internal
+
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    container_name: cloudflare-tunnel
+    depends_on:
+      - web
+    command: tunnel run
+    environment:
+      - TUNNEL_TOKEN=${TUNNEL_TOKEN}   # You must provide this via .env or environment
+    networks:
+      - internal
+
+networks:
+  internal:
+    driver: bridge

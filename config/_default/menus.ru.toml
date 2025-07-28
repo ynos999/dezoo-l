@@ -1,0 +1,63 @@
+############# Latvian navigation ##############
+
+# main menu
+[[main]]
+name = "Главная"
+url = "/"
+weight = 1
+
+[[main]]
+name = "О нас"
+url = "/about"
+weight = 2
+
+[[main]]
+name = "Elementi"
+url = "/elements"
+weight = 3
+
+[[main]]
+weight = 4
+name = "Pages"
+
+[[main]]
+parent = "Pages"
+name = "Blog"
+url = "/blog"
+
+[[main]]
+parent = "Pages"
+name = "Contact"
+url = "/contact"
+
+[[main]]
+parent = "Pages"
+name = "Authors"
+url = "/authors"
+
+[[main]]
+parent = "Pages"
+name = "Categories"
+url = "/categories"
+
+[[main]]
+parent = "Pages"
+name = "404 Page"
+url = "/404"
+
+
+# footer menu
+[[footer]]
+name = "О нас"
+url = "/about"
+weight = 1
+
+# [[footer]]
+# name = "Elements"
+# url = "/elements"
+# weight = 2
+
+[[footer]]
+name = "Политика конфиденциальности"
+url = "/privacy-policy"
+weight = 2

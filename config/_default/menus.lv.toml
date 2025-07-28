@@ -1,0 +1,91 @@
+############# Latvian navigation ##############
+
+# main menu
+[[main]]
+name = "Sākums"
+url = "/"
+weight = 1
+
+[[main]]
+weight = 2
+name = "Cīņa ar"
+
+[[main]]
+parent = "Cīņa ar"
+name = "Deratizācija"
+url = "/deratization"
+
+[[main]]
+parent = "Cīņa ar"
+name = "Dezinfekcija"
+url = "/disinfection"
+
+[[main]]
+parent = "Cīņa ar"
+name = "Blaktis"
+url = "/bedbugs"
+
+[[main]]
+parent = "Cīņa ar"
+name = "Skudras"
+url = "/ants"
+
+[[main]]
+parent = "Cīņa ar"
+name = "Tarakāni"
+url = "/cockroaches"
+
+[[main]]
+name = "Par mums"
+url = "/about"
+weight = 3
+
+[[main]]
+name = "Kontakti"
+url = "contacts"
+weight = 4
+
+[[main]]
+weight = 5
+name = "Lapas"
+
+[[main]]
+parent = "Lapas"
+name = "Blogs"
+url = "/blog"
+
+[[main]]
+parent = "Lapas"
+name = "Kontakti2"
+url = "/contact"
+
+[[main]]
+parent = "Lapas"
+name = "Autori"
+url = "/authors"
+
+[[main]]
+parent = "Lapas"
+name = "Kategorijas"
+url = "/categories"
+
+[[main]]
+parent = "Lapas"
+name = "404 Lapa"
+url = "/404"
+
+[[main]]
+parent = "Lapas"
+name = "Elementi"
+url = "/elements"
+
+# footer menu
+[[footer]]
+name = "Par mums"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Privātuma politika"
+url = "/privacy-policy"
+weight = 2
