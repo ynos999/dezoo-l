@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Ko par mums saka klienti."
-description: "Neticiet tikai mums — uzziniet no mūsu apmierinātajiem lietotājiem! Apskatiet dažas no mūsu atsauksmēm zemāk, lai uzzinātu, ko citi saka par Dezoo-l."
+description: "Neticiet tikai mums — uzziniet no mūsu apmierinātajiem lietotājiem! Apskatiet dažas no mūsu atsauksmēm zemāk, lai uzzinātu, ko citi saka par Dezoo-L."
 
 # Testimonials
 testimonials:
