@@ -77,6 +77,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4.0.5
-        
-      - name: Build site
-        run: hugo --baseURL "https://ynos999.github.io/dezoo-l/"
+
