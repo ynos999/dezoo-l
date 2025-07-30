@@ -1,29 +1,35 @@
 ---
 enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+title: "Ko par mums saka klienti."
+description: "Neticiet tikai mums — uzziniet no mūsu apmierinātajiem lietotājiem! Apskatiet dažas no mūsu atsauksmēm zemāk, lai uzzinātu, ko citi saka par Dezoo-l."
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Anna Auziņa"
+    designation: "Ārsts"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Liels paldies SIA “DEZOO-L” komandai par profesionālo darbu! Pēc viņu apmeklējuma mājās vairs nav ne skudru, ne citu kaitēkļu. Strādā ātri, kvalitatīvi un sniedz arī noderīgus padomus, kā izvairīties no problēmām nākotnē. Noteikti iesaku!"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Māris Bērziņš"
+    designation: "Namu apsaimniekotājs"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Bijām izmēģinājuši dažādus līdzekļus pret blaktīm, bet nekas nelīdzēja. Tikai “DEZOO-L” speciālisti palīdzēja atbrīvoties no šīs problēmas. Rezultāts lielisks, serviss – pieklājīgs un uzmanīgs. Esam ļoti apmierināti!"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Edgars Ozols"
+    designation: "Uzņēmuma vadītājs"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Sazinājos ar “DEZOO-L” sakarā ar žurku problēmu pagalmā. Speciālisti ieradās tajā pašā dienā, veica deratizāciju un jau pēc dažām dienām problēma bija atrisināta. Ļoti atsaucīgs un profesionāls kolektīvs."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Zane Ziediņa"
+    designation: "Ražošanas operātors"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Uzņēmuma pakalpojumus izmantojām biroja telpās Rīgā. Ātra reakcija, rūpīga pieeja un ilgtspējīgs rezultāts – kaitēkļu vairs nav! Paldies par sadarbību, noteikti izmantosim arī turpmāk, ja būs nepieciešams."
+
+  - name: "Ivars Miezis"
+    designation: "IT vadītājs"
+    avatar: "/images/avatar-sm.png"
+    content: "Ļoti patika, ka uzņēmums strādā ne tikai kvalitatīvi, bet arī droši. Mājās ir bērni un mājdzīvnieki, tāpēc bija svarīgi, lai izmantotie līdzekļi nekaitētu mums. “DEZOO-L” visu paskaidroja un nodrošināja drošu kaitēkļu apkarošanu. Ļoti iesaku visiem!"
+  
 
 # don't create a separate page
 build:
