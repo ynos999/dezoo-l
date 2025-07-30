@@ -45,47 +45,47 @@ name = "Kontakti"
 url = "contacts"
 weight = 4
 
-[[main]]
-weight = 5
-name = "Lapas"
+# [[main]]
+# weight = 5
+# name = "Lapas"
 
-[[main]]
-parent = "Lapas"
-name = "Blogs"
-url = "/blog"
+# [[main]]
+# parent = "Lapas"
+# name = "Blogs"
+# url = "/blog"
 
-[[main]]
-parent = "Lapas"
-name = "Kontakti2"
-url = "/contact"
+# [[main]]
+# parent = "Lapas"
+# name = "Kontakti2"
+# url = "/contact"
 
-[[main]]
-parent = "Lapas"
-name = "Autori"
-url = "/authors"
+# [[main]]
+# parent = "Lapas"
+# name = "Autori"
+# url = "/authors"
 
-[[main]]
-parent = "Lapas"
-name = "Kategorijas"
-url = "/categories"
+# [[main]]
+# parent = "Lapas"
+# name = "Kategorijas"
+# url = "/categories"
 
-[[main]]
-parent = "Lapas"
-name = "404 Lapa"
-url = "/404"
+# [[main]]
+# parent = "Lapas"
+# name = "404 Lapa"
+# url = "/404"
 
-[[main]]
-parent = "Lapas"
-name = "Elementi"
-url = "/elements"
+# [[main]]
+# parent = "Lapas"
+# name = "Elementi"
+# url = "/elements"
 
 # footer menu
-[[footer]]
-name = "Par mums"
-url = "/about"
-weight = 1
+# [[footer]]
+# name = "Par mums"
+# url = "/about"
+# weight = 1
 
-[[footer]]
-name = "Privātuma politika"
-url = "/privacy-policy"
-weight = 2
+# [[footer]]
+# name = "Privātuma politika"
+# url = "/privacy-policy"
+# weight = 2
