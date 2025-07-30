@@ -50,6 +50,9 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+      
+      - name: Build site
+        run: hugo --baseURL "https://ynos999.github.io/dezoo-l/"
 
       - name: Setup Project
         run: npm run project-setup
