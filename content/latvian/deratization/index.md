@@ -1,7 +1,7 @@
 ---
 title: "Deratizācija"
 meta_title: "Deratizācija"
-description: "this is meta description"
+description: "Deratizācija, indēšana."
 image: "/images/avatar.png"
 draft: false
 ---
