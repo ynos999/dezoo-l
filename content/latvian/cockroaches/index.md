@@ -5,7 +5,6 @@ description: "Prusaki, Prusaku indēšana, Tarakāni"
 image: "/images/avatar.png"
 draft: false
 ---
-
 Prusaki mājās var parādīties daudzu iemeslu dēļ. Kaitēkļu apkarošana ir ārkārtīgi sarežģīta. Ja parādās šis negaidītais viesis, tad viņš dzīvokļu īpašniekiem sagādā daudz problēmu. Lai atbrīvotos no parazītiem, nepieciešama integrēta pieeja. Šajā rakstā jūs varat iepazīties ar veidiem, kā atbrīvoties no šiem nepatīkamajiem istabas biedriem.
 
 Ansanitāri apstākļi
