@@ -1,15 +1,12 @@
 ---
 title: "Dezinfekcija"
 meta_title: "Dezinfekcija"
-description: "this is meta description"
+description: "Dezinfekcija, iznīcinām vīrusus un baktērijas."
 image: "/images/avatar.png"
 draft: false
 ---
-Iznīcinām vīrusus un baktērijas.
-
-dezinfekcija sabiedriskajās vietās – medicīnas iestādēs, sporta zālēs, mācību iestādēs, sabiedriskās ēdināšanas un pārtikas produktu tirdzniecības vietās, viesnīcās, viesu mājās, ražošanas objektos un noliktavās.
-telpu apstrāde pēc slimnieka vai mirušā,
-telpu ozonēšana
+Iznīcinām vīrusus un baktērijas. Dezinfekcija sabiedriskajās vietās – medicīnas iestādēs, sporta zālēs, mācību iestādēs, sabiedriskās ēdināšanas un pārtikas produktu tirdzniecības vietās, viesnīcās, viesu mājās, ražošanas objektos un noliktavās.
+telpu apstrāde pēc slimnieka vai mirušā, telpu ozonēšana.
 
 Kāpēc nepieciešama dezinfekcija pēc cilvēka nāves?
 

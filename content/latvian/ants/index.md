@@ -5,8 +5,6 @@ description: "Skudras, cīņa ar skudrām"
 image: "/images/avatar.png"
 draft: false
 ---
-Cīņa ar skudrām
-
 Skudras ir sociālās radības, kas dzīvo milzīgās kolonijās, kurās parasti ir liels skudru skaits. Dažreiz to skaits sasniedz miljonu radību.
 
 Kolonijai ir sava karaliene, kas pārvalda visas skudras. Galvenās skudru mātītes uzdevumos ietilpst olu dēšana. Bet strādniekiem ir jānodrošina barība karalienei un kāpuriem. Viņi ir atbildīgi par šo uzdevumu. Dažreiz, lai veiktu šo uzdevumu, cītīgie darbinieki var pamest koloniju uz neticami lielu attālumu. Tas viss notiek, lai atrastu pārtiku un ūdeni.

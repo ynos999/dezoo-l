@@ -5,8 +5,6 @@ description: "Deratizācija, indēšana."
 image: "/images/avatar.png"
 draft: false
 ---
-Deratizācija ir grauzēju – peļu, žurku – iznīcināšana.
-
 Deratizācija ir pasākumu komplekss, kas tiek veikts ar mērķi iznīcināt kaitīgos grauzējus – peles un žurkas – un novērst to atkārtotu parādīšanos. Deratizācija ir būtiska nepieciešamība, jo grauzēji, meklējot barību, ne vien nodara kaitējumu dzīvojamo, saimniecības ražošanas, noliktavu un citas nozīmes telpām, bet arī pārnēsā dažādas nopietnas infekcijas, kas apdraud gan cilvēkus, gan mājdzīvniekus.
 
 Grauzēju iznīcināšana ir droša un efektīva – deratizācija nekaitē ne cilvēka, ne mājdzīvnieku veselībai. Grauzēju iznīcināšana tiek veikta, izmantojot sertificētus līdzekļus atbilstošā veidā un koncentrācijā, tādējādi novēršot nevēlamo grauzēju iekļūšanu un to vairošanos telpās un ēku teritorijās.

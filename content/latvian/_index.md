@@ -21,10 +21,10 @@ features:
       - "Fully responsive on all devices"
       - "SEO-optimized for better search engine rankings"
       - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
+    # button:
+    #   enable: false
+    #   label: "Get Started Now"
+    #   link: "#"
 
   - title: "Discover the Key Features Of Hugo"
     image: "/images/service-2.png"
@@ -33,10 +33,10 @@ features:
       - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
       - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
       - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+    # button:
+    #   enable: true
+    #   label: "Get Started Now"
+    #   link: "https://github.com/zeon-studio/hugoplate"
 
   - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
     image: "/images/service-3.png"
@@ -46,8 +46,8 @@ features:
       - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
       - "Use any front-end library or framework, or build custom components, for any project size."
       - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-    button:
-      enable: false
-      label: ""
-      link: ""
+    # button:
+    #   enable: false
+    #   label: ""
+    #   link: ""
 ---
