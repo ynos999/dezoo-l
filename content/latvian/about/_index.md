@@ -1,7 +1,7 @@
 ---
-title: "Dezoo-l"
+title: "Dezoo-L"
 meta_title: "Par mums"
-description: "Dezoo-l, kukaiņu, žurku, grauzēju indēšana."
+description: "Dezoo-L, kukaiņu, žurku, grauzēju indēšana."
 image: "/images/avatar.png"
 draft: false
 ---
