@@ -14,10 +14,10 @@
 
 # Other languages redirects
 
-[[redirects]]
-from = '/lv/**'
-to = '/lv/404.html'
-status = 404
+# [[redirects]]
+# from = '/lv/**'
+# to = '/404.html'
+# status = 404
 
 [[redirects]]
 from = '/ru/**'
@@ -31,5 +31,5 @@ status = 404
 
 [[redirects]]
 from = '**'
-to = '/lv/404.html'
+to = '/404.html'
 status = 404

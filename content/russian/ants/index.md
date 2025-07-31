@@ -1,16 +1,16 @@
 ---
-title: "Skudras"
-meta_title: "skudras"
-description: "Skudras, cīņa ar skudrām"
+title: "Муравьи"
+meta_title: "Муравьи"
+description: "Муравьи"
 image: "/images/avatar.png"
 draft: false
 ---
-Skudras ir sociālās radības, kas dzīvo milzīgās kolonijās, kurās parasti ir liels skudru skaits. Dažreiz to skaits sasniedz miljonu radību.
+Муравьи — социальные существа, живущие огромными колониями, которые обычно насчитывают большое количество особей. Иногда их численность достигает миллионов.
 
-Kolonijai ir sava karaliene, kas pārvalda visas skudras. Galvenās skudru mātītes uzdevumos ietilpst olu dēšana. Bet strādniekiem ir jānodrošina barība karalienei un kāpuriem. Viņi ir atbildīgi par šo uzdevumu. Dažreiz, lai veiktu šo uzdevumu, cītīgie darbinieki var pamest koloniju uz neticami lielu attālumu. Tas viss notiek, lai atrastu pārtiku un ūdeni.
+В колонии есть своя королева, которая управляет всеми муравьями. Основная задача самки — откладывать яйца. Рабочие же должны обеспечивать королеву и личинок пищей. Они отвечают за эту задачу. Иногда, чтобы выполнить эту задачу, трудолюбивые рабочие могут покидать колонию на невероятно большие расстояния. Всё это делается для того, чтобы найти еду и воду.
 
-Kad smagi strādājošās skudras atrod ceļu uz pārtiku, visi atstāj īpašu taku, no kuras izdalās smarža – citas skudras to jūt, tāpēc viņas atkal var viegli atrast ceļu uz pārtikas un ūdeni.
+Когда трудолюбивые муравьи находят дорогу к еде, они оставляют особый след, от которого исходит запах — другие муравьи его чувствуют, поэтому легко находят дорогу к еде и воде.
 
-Skudras sev pārtiku meklē ne tikai uz ielas, bet arī cilvēku mājokļos. Tās var radīt ne tikai neērtības, bet arī citas problēmas. Fakts ir tāds, ka skudras ir bīstamu slimību pārnēsātājas, tāpēc jums vajadzētu būt uzmanīgiem. Šiem kaitēkļiem patīk nokļūt pie jebkura ēdiena, kas paliek uz galda. Un šie nevēlamie viesi apmetas grūti sasniedzamās vietās.
+Муравьи ищут себе пропитание не только на улице, но и в жилищах человека. Они могут причинять не только неудобства, но и другие проблемы. Дело в том, что муравьи являются переносчиками опасных заболеваний, поэтому следует быть осторожными. Эти вредители обожают добираться до любой еды, оставленной на столе. И эти незваные гости селятся в труднодоступных местах.
 
-Cīnīties ar šiem kaitēkļiem nav tik vienkārši. Kā minēts iepriekš, skudras ir sociālās radības, tāpēc tās ir ļoti organizētas. Skudru pūznis var atrasties diezgan tālu.. Skudru kolonijas iznīcināšanai būs nepieciešams moderns aprīkojums un profesionāli līdzekļi. Bez tiem  pat nevajadzētu mēģināt atbrīvoties no šiem parazītiem. Ja jūs izmantojat parastos līdzekļus, tie palīdzēs tikai uz brīdi un skudras pēc iespējas ātrāk atgriezīsies uz savas takas.
+Бороться с этими вредителями не так-то просто. Как уже упоминалось, муравьи — социальные существа, поэтому они очень организованы. Муравейник может располагаться довольно далеко. Чтобы уничтожить колонию муравьёв, вам понадобится современное оборудование и профессиональные инструменты. Без них не стоит даже пытаться избавиться от этих паразитов. Обычные средства помогут лишь на время, и муравьи вернутся на прежнюю тропу при первой же возможности.
