@@ -87,6 +87,11 @@ expire_days = 60
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
 
+# content = "Šī vietne izmanto sīkfailus. Turpinot izmantot šo vietni, jūs piekrītat to lietošanai."
+# button = "Piekrītu"
+# content = "Этот сайт использует файлы cookie. Продолжая использовать этот сайт, вы соглашаетесь на их использование."
+# button = "Принимаю"
+
 # diagrams
 [mermaid]
 js_url = 'https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.esm.min.mjs'
