@@ -1,4 +1,4 @@
-############# Latvian navigation ##############
+############# Russian navigation ##############
 
 # main menu
 [[main]]
@@ -7,57 +7,40 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "О нас"
-url = "/about"
 weight = 2
+name = "Борьба с"
 
 [[main]]
-name = "Elementi"
-url = "/elements"
+parent = "Борьба с"
+name = "Дератизация"
+url = "/deratization"
+
+[[main]]
+parent = "Борьба с"
+name = "Дезинфекция"
+url = "/disinfection"
+
+[[main]]
+parent = "Борьба с"
+name = "Постельные клопы"
+url = "/bedbugs"
+
+[[main]]
+parent = "Борьба с"
+name = "Муравьи"
+url = "/ants"
+
+[[main]]
+parent = "Борьба с"
+name = "Тараканы"
+url = "/cockroaches"
+
+[[main]]
+name = "О нас"
+url = "/about"
 weight = 3
 
 [[main]]
+name = "Контакты"
+url = "contacts"
 weight = 4
-name = "Pages"
-
-[[main]]
-parent = "Pages"
-name = "Blog"
-url = "/blog"
-
-[[main]]
-parent = "Pages"
-name = "Contact"
-url = "/contact"
-
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "/authors"
-
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "/categories"
-
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
-
-
-# footer menu
-[[footer]]
-name = "О нас"
-url = "/about"
-weight = 1
-
-# [[footer]]
-# name = "Elements"
-# url = "/elements"
-# weight = 2
-
-[[footer]]
-name = "Политика конфиденциальности"
-url = "/privacy-policy"
-weight = 2
